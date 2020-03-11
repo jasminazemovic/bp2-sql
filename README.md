@@ -1,5 +1,7 @@
-# bp2-sql-2019
-SQL skripte sa predavanja iz predmeta "Baze podataka 2 @FIT"- 2019, 2020
+# bp2-sql
+SQL skripte i predavanja iz predmeta: 
+1. Baze podataka 2 - Fakultet informacijskih tehnologija (Univerzitet "Džemal Bijedić", Mostar) 2019, 2020
+2. Naprede baze podataka - Politehnički fakultet (Univerzit u Zenici) 2020
 
 Video tutorial link:
 
